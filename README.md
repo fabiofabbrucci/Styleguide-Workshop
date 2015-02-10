@@ -1,7 +1,7 @@
 STYLEGUIDE WORKSHOP
 ===================
 
-Questo workshop vuole introdurre su come costruire una living styleguide
+Workshop di introduzione a come **costruire e usare una living styleguide**
 
 ## Cos'è una living styleguide
 
@@ -13,7 +13,7 @@ Una styleguide è ecosistema di componenti visivi brand-oriented che permette di
 
 In senso più pratico è un sito, accessibile e di facile manutenzione, che ha lo scopo di generare assets visivi per il vostro progetto/prodotto. 
 
-[Ecco alcuni esempi](http://styleguides.io/examples.html)
+[Ecco alcuni esempi](http://styleguides.io/examples.html).
 
 Sia chiaro, gli esempi che vedete non sono stati costruiti in un giorno :)
 
